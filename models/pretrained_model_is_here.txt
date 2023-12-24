@@ -1,0 +1,2 @@
+dinov2_vitg14_pretrain.pth
+epoch=1-step=8687.ckpt
