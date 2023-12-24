@@ -4,7 +4,7 @@
 
 This is Windows model of AnyDoor using Gradio.
 
-Original: [AnyDoor](https://github.com/damo-vilab/AnyDoor)
+Original: [AnyDoor](https://github.com/damo-vilab/AnyDoor), [AnyDoor-for-windows](https://github.com/sdbds/AnyDoor-for-windows)
 
 ### Dependencies
 
@@ -68,4 +68,4 @@ Access to http://127.0.0.1:7860 .
 
 ## Acknowledgements
 
-This code is built on [AnyDoor](https://github.com/damo-vilab/AnyDoor), thank for the authors for sharing their codes.
+This code is built on [AnyDoor](https://github.com/damo-vilab/AnyDoor) and [AnyDoor-for-windows](https://github.com/sdbds/AnyDoor-for-windows) , thank for the authors for sharing their codes.
