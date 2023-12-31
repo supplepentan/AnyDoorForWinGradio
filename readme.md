@@ -44,11 +44,12 @@ python -m pip install -r requirements.txt
 
 ### Pytorch
 
-Uninstall unnecessary installed Pytorch, and newly install Pytorch (CUDA11.7 compatible model) and xFormers.
+Uninstall unnecessary installed Pytorch, and newly install Pytorch (CUDA11.7 compatible model), xFormers and triton.
 
 ```bash
 python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu117
 python -m pip install xformers==0.0.20
+python -m pip install triton-2.0.0-cp310-cp310-win_amd64.whl
 ```
 
 ## Download Checkpoints
