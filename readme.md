@@ -61,7 +61,7 @@ Download AnyDoor checkpoint:
 ## Run the Gradio
 
 ```bash
-python run_gradio_demo.py
+python app.py
 ```
 
 Access to http://127.0.0.1:7860 .
